@@ -1,2 +1,14 @@
 # hth-app-guide
-HTML page archive and documentation
+
+HTML 发布文件仓库
+
+此仓库用于存放发布任务生成的静态页面，方便后续检查和维护。
+
+## 存放说明
+
+- 页面内容写入独立 HTML 文件
+- 仓库说明保持在 README 中
+
+## 结尾说明
+
+本 README 用于说明仓库用途，页面内容以独立 HTML 文件为准。
